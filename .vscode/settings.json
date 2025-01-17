@@ -6,5 +6,6 @@
         "2.Sorthig Algorithms",
         "1.Array",
         "6.OOPs"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
