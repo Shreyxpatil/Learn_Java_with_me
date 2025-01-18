@@ -6,7 +6,7 @@ public class BasicRecursion {
             return; //return to main function
         }
         System.out.print(n + " ");
-        printDec(n-1);
+        printDec(n-1); // printDec is recursive means its runs until n==1 first
     }
 
     public static void printIn(int a){
