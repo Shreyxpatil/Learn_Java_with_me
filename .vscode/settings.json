@@ -1,11 +1,12 @@
 {
     "java.project.sourcePaths": [
+        "6.OOPs",
         "5.Bit Manipulation",
         "4.String",
         "3.2D Array",
         "2.Sorthig Algorithms",
         "1.Array",
-        "6.OOPs"
+        "7.Recusrssion"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
