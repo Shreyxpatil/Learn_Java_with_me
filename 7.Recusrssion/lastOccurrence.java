@@ -13,7 +13,7 @@ public class lastOccurrence {
         int arr[] = {1,2,3,4,5,6,7,5,7};
         int key = 5;
         int i = arr.length-1;
-        System.err.println(last(arr,key,i));
+        System.out.println(last(arr,key,i));
     }
     
 }
