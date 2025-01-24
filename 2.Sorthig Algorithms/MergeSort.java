@@ -10,6 +10,7 @@ public class MergeSort {
         merge(arr,si,mid,ei);
     }
     public static void merge(int arr[], int si, int mid, int ei){
+        public
 
     }
     
